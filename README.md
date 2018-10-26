@@ -2,11 +2,7 @@
 
 Steps for implementation:
 
-Unzip the submission folder "012445186_Assignment".
-
 ********Folders Description **************
-
-When unzipped the Source Code folder consists of Src, Images along with read_me file and the csv file of dataset.
 
 1. Source_Code - consists of all the python scripts in .py form.
 2. Images - This is the folder used to save all images from the python scripts.
