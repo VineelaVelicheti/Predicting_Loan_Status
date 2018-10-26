@@ -4,7 +4,7 @@ Steps for implementation:
 
 ********Folders Description **************
 
-1. Source_Code - consists of all the python scripts in .py form.
+1. Src - consists of all the python scripts in .py form.
 2. Images - This is the folder used to save all images from the python scripts.
 	    You can create a new folder or you can change the path to the images folder provided in the submission folder.
 	    However these images already exist in the provided folder.
